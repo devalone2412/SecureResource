@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Movies.API
+build_property.ProjectDir = /home/sang/projects/run-aspnet-identityserver4/SecureResource/Movies.API/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
