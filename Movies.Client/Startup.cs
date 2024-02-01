@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using IdentityModel;
 using IdentityModel.Client;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.OpenIdConnect;
 using Microsoft.AspNetCore.Builder;
@@ -90,6 +91,8 @@ namespace Movies.Client
                     options.Scope.Add("email");
                     options.Scope.Add("movieAPI");
                     options.Scope.Add("roles");
+                    
+                    options.ClaimActions.MapJsonKey("role", "role");
 
                     options.SaveTokens = true;
 

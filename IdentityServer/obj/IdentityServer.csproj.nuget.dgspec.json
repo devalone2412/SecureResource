@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/sang/projects/run-aspnet-identityserver4/SecureResource/IdentityServer/IdentityServer.csproj": {}
+    "D:\\projects\\personal\\SecureResource\\IdentityServer\\IdentityServer.csproj": {}
   },
   "projects": {
-    "/home/sang/projects/run-aspnet-identityserver4/SecureResource/IdentityServer/IdentityServer.csproj": {
+    "D:\\projects\\personal\\SecureResource\\IdentityServer\\IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sang/projects/run-aspnet-identityserver4/SecureResource/IdentityServer/IdentityServer.csproj",
+        "projectUniqueName": "D:\\projects\\personal\\SecureResource\\IdentityServer\\IdentityServer.csproj",
         "projectName": "IdentityServer",
-        "projectPath": "/home/sang/projects/run-aspnet-identityserver4/SecureResource/IdentityServer/IdentityServer.csproj",
-        "packagesPath": "/home/sang/.nuget/packages/",
-        "outputPath": "/home/sang/projects/run-aspnet-identityserver4/SecureResource/IdentityServer/obj/",
+        "projectPath": "D:\\projects\\personal\\SecureResource\\IdentityServer\\IdentityServer.csproj",
+        "packagesPath": "C:\\Users\\devbr\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\personal\\SecureResource\\IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sang/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\devbr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\devbr\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

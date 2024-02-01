@@ -6084,19 +6084,19 @@
     ]
   },
   "packageFolders": {
-    "/home/sang/.nuget/packages/": {}
+    "C:\\Users\\devbr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sang/projects/run-aspnet-identityserver4/SecureResource/Movies.Client/Movies.Client.csproj",
+      "projectUniqueName": "D:\\projects\\personal\\SecureResource\\Movies.Client\\Movies.Client.csproj",
       "projectName": "Movies.Client",
-      "projectPath": "/home/sang/projects/run-aspnet-identityserver4/SecureResource/Movies.Client/Movies.Client.csproj",
-      "packagesPath": "/home/sang/.nuget/packages/",
-      "outputPath": "/home/sang/projects/run-aspnet-identityserver4/SecureResource/Movies.Client/obj/",
+      "projectPath": "D:\\projects\\personal\\SecureResource\\Movies.Client\\Movies.Client.csproj",
+      "packagesPath": "C:\\Users\\devbr\\.nuget\\packages\\",
+      "outputPath": "D:\\projects\\personal\\SecureResource\\Movies.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/sang/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\devbr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -6152,7 +6152,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\devbr\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
